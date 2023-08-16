@@ -1,2 +1,2 @@
 # Finger-Mouse
- Move and click the mouse with your fingertips.
+ Move and click the mouse with your fingertips by using a webcam.
