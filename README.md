@@ -1,2 +1,2 @@
 # Finger-Mouse
- Move and click with your mouse with the tips of your fingers.
+ Move and click the mouse with your fingertips.
